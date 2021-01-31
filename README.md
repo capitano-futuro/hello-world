@@ -22,3 +22,6 @@ Yes. Most likely they had to because they feared legal repercussions. In any cas
 
 
 Why does Monero insist that Ciphertrace has no way of tracking it when in fact such problems were reported and remain unfixed since 2016?
+
+For the same reason why asbestos companies insisted that asbestos is safe, or why big tobacco pumped billions into cool advertising. There is a lot of money to be made, and the top echelons of Monero community stand to make this money. At the end of the day, just like big tobacco, they don't give a damn about the fate of end users. By that time they are laughing all the way to the bank.
+
