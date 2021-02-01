@@ -29,7 +29,7 @@ Why does Monero insist that Ciphertrace has no way of tracking it when in fact s
 For the same reason why asbestos companies insisted, that asbestos is safe. The same reason big tobacco pumped billions into cool advertising. There is a lot of money to be made and the top echelons of Monero community stand to make this money. At the end of the day, just like big tobacco, they don't give a damn about the fate of end users. And that compromised privacy, makes you a target by big governments and the establishment. 
 
 
-I heard that DOJ/IRS/CIA is offering a reward. Is the past data on Monero users or the tracking code for sale?
+I heard that DOJ/IRS/CIA [every abbreviation could get a LINK forwarding to an explanation, like https://www.justice.gov/] is offering a reward. Is the past data on Monero users or the tracking code for sale?
 
 Yes, over a year worth of logs and the source code is available for sale. If you have experience in government procurement and want to team up, please contact me on contact@monero-badcaca.net.
 
