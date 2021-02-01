@@ -36,7 +36,7 @@ Yes, over a year worth of logs and the source code is available for sale. If you
 
 Is Monero community a cult?
 
-I tend to dislike the word "cult". It implies a religious organisation, whereas MMLs [what do you mean? - Modern and Medieval Languages? ;)]and fringe political groups use the same methods of manipluation.
+I tend to dislike the word "cult". It implies a religious organisation, whereas MLM's (Multi-level Marketing) and fringe political groups use the same methods of manipluation.
 
 With regards to Monero it is impossible to say if people that wish "my mother was our lord's groupie" or crowning themselves as "easily the most prestigious coin" are genuine. Or are they just stroking egos in hopes of moving up the community ladder? However, Monero community has a lot of cult-like characteristics. This includes a bottom caste of people, that sacrifice their time and money for "magical crypto friendship" (Riccardo Spagni is pretty much mocking them with his podcast series). And of course insider doctrine - Do you want to hear about Monero's Lord and saviour of NASA, Howard Chu?
 
@@ -98,4 +98,10 @@ It all boils down to greed. Maybe Monero, the community and the movement was abo
 But down the road big problems were discovered with Monero. Serious problems no one had a satisfying answer to. Now, shut it all down, expose the threats to the community and risk to loose reputation and coinmarketcap-ranking or keep the party going? They chose poorly. Biiiiitconnnneeeeeeeeeeeect, comes to mind, the last one turns off the lights. 
 
 
-[What I wd be interested in - what is your opinion?] Is Monero an NSA/(or other intelligence agency) honey pot? How do the rumours about Fluffy and Alphabay support that theory? 
+Is Monero an NSA/(or other intelligence agency) honey pot? How do the rumours about Fluffy and Alphabay support that theory? 
+
+Nah, my feel of the guy is, that he is what he says he is (a pump and dump scammer, that happened to be in the right place at the right time).
+
+“I thought, ‘I’m going to pump it and dump it,’ because I was interested and taking the ideas and implementing them in bitcoin. The bitcoin code base was far more interesting to me than monero, and I thought, ‘I’m not going to work on this codebase, it’s terrible,'” he recalls. - fluffypony aka Riccardo Spagni on Monero
+https://www.coindesk.com/drugs-code-icos-moneros-long-road-blockchain-mainstream
+
