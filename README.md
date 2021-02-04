@@ -1,6 +1,8 @@
 # hello-world
 what up?
 
+[already at the top where you have your site-logo linked to mainpage you have also "All Transactions - button" which exactly does the same]
+
 Monero "BADCACA" tracking project
 Monero's main selling point is privacy. That promise doesn't work, 'cause there are several ways to track it. 
 Did you use Monero yesterday? If so, check the list below, you might be on it.
@@ -133,6 +135,6 @@ Do you want to give us a best-pratice approach to private crypto transactions wi
 
 paragraph 1: [a dozen? is that true? one FAQ down below speaks about 4 ways, that you know and refering to the articles]
 
-q1 who are you: [not that I care, but I wd erase the last phrase. Everybody is nowadays a neo-nazi. Today we have WSB - wallstreetbets smeared as far right-wing antisemites by the establishment.]
+q1 who are you: [not that I care, but I wd erase the last phrase. Everybody is nowadays a neo-nazi. Today we have WSB - wallstreetbets smeared as far right-wing antisemites by the establishment. The problem is, at least for me, by inflating the accusations that some people are far-right or neo-nazis, people expect the opposite and credibility could suffer from people accusing others to be far-right. And I don't know about the imgur-pic. Of course your accusations could be true. But this pic solely is no proof imo. but maybe I am missing sth]
 
 q1 + q2: [you could split those 2 questions, to bring more order in]
