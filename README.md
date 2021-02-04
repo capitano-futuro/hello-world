@@ -128,6 +128,8 @@ What is your opinion on optional privacy Dash - Digital Cash is offering over hi
 What is your opinion on Verge, Horizon?
 
 
+Do you want to give us a best-pratice approach to private crypto transactions with the technology available today?
+
 
 paragraph 1: [a dozen? is that true? one FAQ down below speaks about 4 ways, that you know and refering to the articles]
 
