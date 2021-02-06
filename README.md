@@ -139,4 +139,8 @@ q1 who are you: [not that I care, but I wd erase the last phrase. Everybody is n
 q1 + q2: [you could split those 2 questions, to bring more order in]
 
 Feel free to tip a beer, if you like what I am doing. [emoj like that on http://178.254.23.111/~pub/Dash/Dash_Info.html]
-If you really dislike the appalling cult
+If you really dislike the appalling cult-like Monero community, with all their lies and smears, consider becoming a crowd-supporter. 
+The money donated can be used 
+  1) to run google ads on monero queries,
+  2) to increase the number of nodes by 10x (hosting cost is around 100/mo)
+  3) to intercept other wallets apart from monero-gui-wallet, that are not hardcoded (closed source) [don't know if closed source is a synonym for hardcoded - but from my perspective this term could be better perceived by non-tech people. Most of them have heard the term open-source]
