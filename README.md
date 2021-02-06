@@ -40,8 +40,7 @@ Is Monero community a cult?
 
 I tend to dislike the word "cult". It implies a religious organisation, whereas MLM's (Multi-level Marketing) [- you could also work with a link again https://www.investopedia.com/terms/m/multi-level-marketing.asp] and fringe political groups use the same methods of manipluation.
 
-With regards to Monero it is impossible to say if people that wish "my mother was our lord's groupie" [when I click this link it forwards me to reddit. Couldn't find the direct insult instantely - maybe it is better to make a screenshot like you did above regarding your 1.FAQ who you are + link] or crowning themselves as "easily the most prestigious coin" are genuine. Or are they just stroking egos in hopes of moving up the community ladder? However, Monero community has a lot of cult-like characteristics. This includes a bottom caste of people, that sacrifice their time and money for "magical crypto friendship" (Riccardo Spagni is pretty much mocking them with his podcast series). And of course insider doctrine - Do you want to hear about Monero's Lord and saviour of NASA, Howard Chu?
-
+Do you want to hear about Monero's Lord and saviour of NASA, Howard Chu and its insider doctrine? With regards to Monero it is impossible to say if people that wish their mother was Howard Chu's groupie or crowning themselves as "easily the most prestigious coin" are genuine. Or are they just stroking egos in hopes of moving up the community ladder? However, Monero community has a lot of cult-like characteristics. This includes a bottom caste of people, that sacrifice their time and money for "magical crypto friendship" (Riccardo Spagni is pretty much mocking them with his podcast series). 
 
 I'm a Monero community member and this website makes me angry.
 
@@ -138,3 +137,6 @@ paragraph 1: [a dozen? is that true? one FAQ down below speaks about 4 ways, tha
 q1 who are you: [not that I care, but I wd erase the last phrase. Everybody is nowadays a neo-nazi. Today we have WSB - wallstreetbets smeared as far right-wing antisemites by the establishment. The problem is, at least for me, by inflating the accusations that some people are far-right or neo-nazis, people expect the opposite and credibility could suffer from people accusing others to be far-right. And I don't know about the imgur-pic. Of course your accusations could be true. But this pic solely is no proof imo. but maybe I am missing sth]
 
 q1 + q2: [you could split those 2 questions, to bring more order in]
+
+Feel free to tip a beer, if you like what I am doing. [emoj like that on http://178.254.23.111/~pub/Dash/Dash_Info.html]
+If you really dislike the appalling cult
