@@ -112,8 +112,8 @@ And nah, my personal feel of the guy is, that he is what he says he is (a pump a
 “I thought, ‘I’m going to pump it and dump it,’ because I was interested and taking the ideas and implementing them in bitcoin. The bitcoin code base was far more interesting to me than monero, and I thought, ‘I’m not going to work on this codebase, it’s terrible,'” he recalls. - fluffypony aka Riccardo Spagni on Monero
 https://www.coindesk.com/drugs-code-icos-moneros-long-road-blockchain-mainstream
 
-On the other hand when you look at the Monero-price-history, you see a correlation of Moneros first real pump, when their much-touted FluffyPony announced a major  adoption by a drugs market called Alphabay, where he was somehow involved. 
-Coincidentally it was taken down by law enforcement a few months later. 
+On the other hand when you look at the Monero-price-history, you see a correlation of Moneros first real pump, when their much-touted FluffyPony announced a major  adoption by a darkmarket called Alphabay. 
+Coincidentally Alphabay was taken down by law enforcement a few months later. 
 
 
 Are you a cultist, who doesn't want to believe me? Try that:
