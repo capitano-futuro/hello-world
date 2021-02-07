@@ -21,7 +21,7 @@ Why are you doing this?
 I have been logging Monero transactions for over a year now. Main reason why I decided to go public are blatant lies, that there is nothing to worry about Ciphertrace and that Monero is private. If you are prepared to sit though an 8 hour lecture on how broken Monero is, you will see that even they admit it. However that's obviously a small percentage of people they sell Monero to.
 
 
-Didn't Monero academics make a video series saying "Monero doesn't work, sorry, lol"?
+Didn't Monero academics make a video series called <BreakingMonero>, saying "Monero doesn't work, sorry, lol"?
 
 Yes. Most likely they had to because they feared legal repercussions. In any case, if you are prepared to sit through an 8 hour lecture (who isn't, right?) - it is here. [This is a small contradiction and could diminish credibility, cause above you are talking about 8 hours, now it's 5]
 
@@ -41,6 +41,7 @@ Is Monero community a cult?
 I tend to dislike the word "cult". It implies a religious organisation, whereas MLM's (Multi-level Marketing) [- you could also work with a link again https://www.investopedia.com/terms/m/multi-level-marketing.asp] and fringe political groups use the same methods of manipluation.
 
 Do you want to hear about Monero's Lord and saviour of NASA, Howard Chu and its insider doctrine? With regards to Monero it is impossible to say if people that wish their mother was Howard Chu's groupie or crowning themselves as "easily the most prestigious coin" are genuine. Or are they just stroking egos in hopes of moving up the community ladder? However, Monero community has a lot of cult-like characteristics. This includes a bottom caste of people, that sacrifice their time and money for "magical crypto friendship" (Riccardo Spagni is pretty much mocking them with his podcast series). 
+
 
 I'm a Monero community member and this website makes me angry.
 
@@ -96,20 +97,22 @@ I don't think so. People finding their own transactions here is all the validati
 Why am I hearing, that Monero is broken from an outsider and not from Monero developers?
 
 It all boils down to greed. Maybe Monero, the community and the movement was about privacy in the beginning. The need and advantages of private cryptos are till today persistent. Privacy should be a fundamental right and one of the main characteritics of a functioning currency. 
-But down the road big problems were discovered with Monero. Serious problems no one had a satisfying answer to. Now, shut it all down, expose the threats to the crypto-community and risk to loose money, reputation and coinmarketcap-ranking or keep the party going? Of course, they chose poorly. Biiiiitconnnneeeeeeeeeeeect, comes to mind, the last one turns off the lights. 
+But down the road big problems were discovered with Monero. Serious problems no one had a satisfying answer to. Listen to the podcast <BreakingMonero> [https://www.monerooutreach.org/breaking-monero/], with the intention to mitigate legal implications. 
+Identifying security problems is not the issue. But doing nothing about it and attacking people addressing it is. Just keep the party going and the money flowing by selling a broken product to the gullible and uneducated. Also deflect from the failure of your promises by viciously attacking other projects. 
+
+[It is getting to long so I wd leave this out -> Now, shut it all down and risk to loose money, reputation and coinmarketcap-ranking or keep the party going? Of course, they chose poorly. Biiiiitconnnneeeeeeeeeeeect, comes to mind, the last one turns off the lights. ]
 
 
-Could Monero be an NSA/(or other intelligence agency) honey pot? 
+Could Monero be an NSA/(or other intelligence agency) honey pot and how do the rumours about Fluffy and Alphabay support that theory?
 
-Everything is possible. 
+First, everything is possible. 
 
-
-How do the rumours about Fluffy and Alphabay support that theory? 
-
-Nah, my feel of the guy is, that he is what he says he is (a pump and dump scammer, that happened to be in the right place at the right time).
+And nah, my personal feel of the guy is, that he is what he says he is (a pump and dump scammer, that happened to be in the right place at the right time).
 
 “I thought, ‘I’m going to pump it and dump it,’ because I was interested and taking the ideas and implementing them in bitcoin. The bitcoin code base was far more interesting to me than monero, and I thought, ‘I’m not going to work on this codebase, it’s terrible,'” he recalls. - fluffypony aka Riccardo Spagni on Monero
 https://www.coindesk.com/drugs-code-icos-moneros-long-road-blockchain-mainstream
+On the other hand when you look at the Monero-price-history, you see a correlation of Moneros first real pump, when their much-touted FluffyPony announced the adoption by a drugs market called Alphabay. 
+Coincidentally it was taken down by law enforcement a few months later. 
 
 
 Are you a cultist, who doesn't want to believe me? Try that:
