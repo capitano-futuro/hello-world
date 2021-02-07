@@ -69,9 +69,9 @@ Is this the end of Monero?
 I don't think so. In the same way that Elon Musk did not end flat-earthers, Monero will carry on. Its bottom tiers are too psychologically invested to do anything else. Its top tiers already jettisoned Monero for future projects like Tari, so my prediction is that it will go out with a whimper rather than a bang.
 
 
-How are you tracking people's IP addresses? Didn't Monero implement Dandelion++ to prevent that?
+How are you tracking people's IP addresses? Didn't Monero implement Dandelion++ (IP-level privacy) to prevent that?
 
-Similarly to Monero, Dandelion++ is only private on paper. [Wd be nice to link a source here]
+Similarly to Monero, Dandelion++ is only private on paper, or this site wouldn't have a reason to exist. 
 
 
 I didn't download child pornography! You must remove my IP address immediately!
