@@ -96,9 +96,9 @@ I don't think so. People finding their own transactions here is all the validati
 
 Why am I hearing, that Monero is broken from an outsider and not from Monero developers?
 
-It all boils down to greed. Maybe Monero, the community and the movement was about privacy in the beginning. The need and advantages of private cryptos are till today persistent. Privacy should be a fundamental right and one of the main characteritics of a functioning currency. 
-But down the road big problems were discovered with Monero. Serious problems no one had a satisfying answer to. Listen to the podcast <BreakingMonero> [https://www.monerooutreach.org/breaking-monero/], with the intention to mitigate legal implications. 
-Identifying security problems is not the issue. But doing nothing about it and attacking people addressing it is. Just keep the party going and the money flowing by selling a broken product to the gullible and uneducated. Also deflect from the failure of your promises by viciously attacking other projects. 
+It all boils down to greed. Maybe Monero, the community and the movement was about privacy in the beginning. The need and advantages of private cryptos are persistent till today. Privacy should be a fundamental right and one of the main characteritics of a functioning currency. 
+But with Monero big problems were discovered down the road. Serious problems, compromising everyone's privacy and safety, no one had a satisfying answer to. Listen to the podcast <BreakingMonero> [https://www.monerooutreach.org/breaking-monero/], that has been recorded with the intention to mitigate legal implications. 
+Identifying security problems is not the issue. But doing nothing about it and attacking people addressing it is. Just keep the party going and the money flowing by selling a broken product to the gullible and uneducated. Also deflect from the failure of your promises by viciously attacking other projects. At the end greed will be their downfall.
 
 [It is getting to long so I wd leave this out -> Now, shut it all down and risk to loose money, reputation and coinmarketcap-ranking or keep the party going? Of course, they chose poorly. Biiiiitconnnneeeeeeeeeeeect, comes to mind, the last one turns off the lights. ]
 
@@ -111,7 +111,8 @@ And nah, my personal feel of the guy is, that he is what he says he is (a pump a
 
 “I thought, ‘I’m going to pump it and dump it,’ because I was interested and taking the ideas and implementing them in bitcoin. The bitcoin code base was far more interesting to me than monero, and I thought, ‘I’m not going to work on this codebase, it’s terrible,'” he recalls. - fluffypony aka Riccardo Spagni on Monero
 https://www.coindesk.com/drugs-code-icos-moneros-long-road-blockchain-mainstream
-On the other hand when you look at the Monero-price-history, you see a correlation of Moneros first real pump, when their much-touted FluffyPony announced the adoption by a drugs market called Alphabay. 
+
+On the other hand when you look at the Monero-price-history, you see a correlation of Moneros first real pump, when their much-touted FluffyPony announced a major  adoption by a drugs market called Alphabay, where he was somehow involved. 
 Coincidentally it was taken down by law enforcement a few months later. 
 
 
