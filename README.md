@@ -148,3 +148,24 @@ The money donated can be used
   1) to run google ads on monero queries,
   2) to increase the number of nodes by 10x (hosting cost is around 100/mo)
   3) to intercept other wallets apart from monero-gui-wallet, that are not hardcoded (closed source) [don't know if closed source is a synonym for hardcoded - but from my perspective this term could be better perceived by non-tech people. Most of them have heard the term open-source]
+  
+  
+  
+  
+  Monero "BADCACA" deanonymization project. Daily list of 100 Monero users and their porn habits. Are you on it?
+TLDR
+Monero was never a real privacy coin. Multiple problems that Ciphertrace is currently exploiting were reported to Monero project in 2016 and remain unfixed since. To draw attention to the issue we will publish transactions, IP addresses and porn preferences of 100 "lucky" Monero users every day.
+
+<b>In addition ask yourself the following questions:</b>
+Why are moderators so desperate to remove this list?
+Why is there a gaggle of angry redditors responding to BADCACA posts? 
+Why did Monero developers admit the limits of Monero's privacy in a 8h podcast called <BreakingMonero> [https://www.monerooutreach.org/breaking-monero/], but besides that nothing has changed?
+Do they really care about your privacy?
+Or do they care more about selling you their Monero?
+Why does an Internet rando, who is able to deanonymize Monero transactions and knows what porn you have bought with it, is such a pain in the a**** [or hassle] with Monero communities sales pitch. 
+If a single Internet rando is able to just do that, what are NSA or other government agencies already doing?
+
+Do you have more questions or need more info? Feel free to visit Monero BADCACA website, with a more detailed FAQ-section.  
+  
+
+
