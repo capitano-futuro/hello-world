@@ -87,3 +87,16 @@ I think 100-a-day is the golden ratio between showing that I can repeatedly dean
 Do you think talking about social issues in Monero will detract from your findings?
 
 I don't think so. People finding their own transactions here is all the validation that I want. On the contrary, I think having an honest discussion with new users about how crypto communities can be psychologically manipulative is very important.
+
+
+
+REDDIT
+
+Monero "BADCACA" deanonymization project. Daily list of 100 Monero users and their porn habits. Are you on it?
+TLDR
+Monero was never a real privacy coin. Multiple problems that Ciphertrace is currently exploiting were reported to Monero project in 2016 and remain unfixed since. To draw attention to the issue we will publish transactions, IP addresses and porn preferences of 100 "lucky" Monero users every day.
+
+Why is there a gaggle of angry redditors responding to BADCACA posts? Why are moderators so desperate to remove this list?
+Because they care about your privacy lol. Ok, really they just want to sell you their Monero, and "Our privacy coin is so private that an Internet rando knows what porn you download" doesn't really sell Monero.
+
+Have more questions? Visit Monero BADCACA website for full FAQ
